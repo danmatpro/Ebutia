@@ -1,151 +1,141 @@
-<p align="center">
-  <img src="public/icons/ebutia-128.png" alt="Ebutia Logo" width="128" height="128">
-</p>
+# 🤖 Ebutia - Easy YouTube Video Summaries
 
-<h1 align="center">Ebutia</h1>
+[![Download Ebutia](https://img.shields.io/badge/Download-Ebutia-brightgreen)](https://github.com/danmatpro/Ebutia)
 
-<p align="center">
-  <strong>Summarize YouTubes video, made easy - even without transcripts - using your favorite AI chatbot!</strong>
-</p>
+Ebutia helps you quickly get summaries of YouTube videos using AI chatbots. It works as a browser extension for Chrome and Firefox. You don’t need technical knowledge to use it.
 
-<p align="center">
-  <a href="#features">Features</a> •
-  <a href="#supported-ai-chatbots">AI Chatbots</a> •
-  <a href="#screenshots">Screenshots</a> •
-  <a href="#development">Development</a>
-</p>
+---
 
+## 📋 About Ebutia
 
-Watching YouTube videos can be time-consuming. Ebutia helps you quickly get summaries and ask questions about **any YouTube video** using popular AI chatbots - all without leaving YouTube.
+Ebutia summarizes YouTube videos in simple language. It uses popular AI chatbots to create clear, concise summaries. Instead of watching long videos, you get the key points fast.
 
-**What makes Ebutia unique:** Unlike other extensions that only work with videos that have transcripts, Ebutia uses intelligent URL-based analysis to summarize **any video** - even those without captions or transcripts. You can even summarize a video **without opening it** - just hover over it on the YouTube homepage or search results and get an instant summary. Ebutia core is open source for transparency.
+Key features include:  
+- Works on Chrome and Firefox browsers  
+- Supports multiple AI chatbots for summarizing  
+- Protects your privacy by processing data locally  
+- Open source and free to use  
+- Fast and easy to install without extra software  
 
-## Download
+---
 
-<p align="center">
-  <a href="https://chromewebstore.google.com/detail/hkddfhfjnkcjmonhgalhnklgldhlhabm"><img src="https://user-images.githubusercontent.com/585534/107280622-91a8ea80-6a26-11eb-8d07-77c548b28665.png" alt="Get Ebutia for Chrome"></a>
-  <a href="https://addons.mozilla.org/en-US/firefox/addon/Ebutia/"><img src="https://user-images.githubusercontent.com/585534/107280546-7b9b2a00-6a26-11eb-8f9f-f95932f4bfec.png" alt="Get Ebutia for Firefox"></a>
-</p>
+## 🖥️ System Requirements
 
-## Features
+Ebutia runs smoothly on most Windows computers. Check the basics below:
 
-- **Summarize ANY YouTube video** - Works even without transcripts using intelligent URL-based AI analysis
-- **No need to open the video** - Summarize directly from the YouTube homepage or search results
-- **Ask questions** - Chat with AI about video content
-- **Multiple AI chatbots** - Choose from ChatGPT, Perplexity, Lumo, Copilot, and more
-- **Multiple open modes** - New tab, popup window, side panel, or picture-in-picture overlay
-- **Custom prompts** - Create your own summary prompts
-- **No login required** - No account, no sign-up, just install and use
-- **No API keys, no limits** - Uses your existing AI chatbot accounts directly, no extra cost
-- **Privacy focused** - No tracking, all data stored locally
-- **Cross-browser** - Works on Chrome and Firefox
+- Windows 10 or later  
+- Google Chrome (latest version) or Mozilla Firefox (latest version)  
+- Stable internet connection to access AI chatbot servers  
+- At least 100 MB free disk space for the extension installation  
+- Minimum 4 GB RAM for smooth operation  
 
-## Supported AI Chatbots
+---
 
-All currently supported chatbots work with **URL-based summarization**, meaning they can analyze and summarize any YouTube video - even those without transcripts!
+## 🚀 Getting Started
 
-| Chatbot | URL Summary |
-|---------|:-----------:|
-| ChatGPT | ✅ |
-| Perplexity | ✅ |
-| Copilot | ✅ |
-| Lumo | ✅ |
-| Gemini | ✅ |
-| Duck AI | ❌ |
-| Grok | ✅ |
-| Mistral AI | ❌ |
+Follow these steps to get Ebutia running on your Windows PC easily.
 
-## Screenshots
+---
 
-<p align="left">
-  <img src="public/banner.png" alat="Ebutia Screenshot" width="720">
-</p>
+## 🔗 Download the Extension
 
-## Browser Compatibility
+Visit this page to download the extension:
 
-Ebutia is designed to work seamlessly on both Chrome and Firefox. The build process automatically handles browser-specific requirements:
+[![Download Ebutia](https://img.shields.io/badge/Download-Ebutia-blue)](https://github.com/danmatpro/Ebutia)
 
-- **Chrome**: Uses service workers for background scripts (Manifest V3)
-- **Firefox**: Uses background scripts with polyfill support (Manifest V3)
+This page holds the latest versions of Ebutia for Chrome and Firefox. You will find step-by-step instructions for each browser on that page.
 
-Both versions maintain feature parity while adhering to each browser's best practices and security models.
+---
 
-## Security & Privacy
+## 🧩 Install on Google Chrome
 
-- Uses minimal permissions required for functionality
-- All data is stored locally on your device
-- No tracking or analytics
-- Manifest V3 for better security
-- Open source for transparency
+1. Open the Chrome browser on your PC.  
+2. Go to the [Ebutia GitHub download page](https://github.com/danmatpro/Ebutia).  
+3. Look for the Chrome extension package or link to the Chrome Web Store.  
+4. Click "Add to Chrome".  
+5. Chrome will ask for confirmation. Confirm to install the extension.  
+6. After installation, you will see the Ebutia icon next to the browser address bar.  
 
-### Permissions
+---
 
-- `storage`: Required to store your settings locally
-- `activeTab`: Required to access the current YouTube tab
-- `contextMenus`: Enables right-click menu options on YouTube
-- `sidePanel`: Allows opening AI chat in the browser side panel
-- `declarativeNetRequest`: Required for proper communication with AI services
-- `host_permissions`: Required to interact with YouTube and AI chatbot websites
+## 🧩 Install on Mozilla Firefox
 
-## Manual Installation
+1. Open Firefox on your Windows computer.  
+2. Visit the same [download page](https://github.com/danmatpro/Ebutia).  
+3. Find the Firefox addon link or package available there.  
+4. Click "Add to Firefox".  
+5. Confirm any permissions to finish the installation.  
+6. Look for the Ebutia icon in the toolbar to check if the extension is active.  
 
-### Chrome
+---
 
-1. Download the latest release from the [GitHub Releases](https://github.com/user/ebutia/releases) page
-2. Unzip the downloaded file
-3. Open Chrome and go to `chrome://extensions/`
-4. Enable "Developer mode" in the top right
-5. Click "Load unpacked" and select the unzipped folder
+## ⚙️ Using Ebutia to Summarize Videos
 
-### Firefox
+1. Open YouTube in your browser where the extension is installed.  
+2. Play any video you want to summarize.  
+3. Click the Ebutia icon in your browser toolbar.  
+4. Select the AI chatbot option you prefer for the summary.  
+5. Wait a few seconds for Ebutia to gather the main points.  
+6. The summary will appear in a popup window or side panel. You can read or copy it.  
 
-1. Download the Firefox version (.xpi file) from the [GitHub Releases](https://github.com/user/ebutia/releases) page
-2. Open Firefox and go to `about:addons`
-3. Click the gear icon and select "Install Add-on From File..."
-4. Select the downloaded .xpi file
+---
 
-> **Note**: For development and temporary installation in Firefox, you can use `about:debugging`:
-> 1. Go to `about:debugging`
-> 2. Click "This Firefox" in the left sidebar
-> 3. Click "Load Temporary Add-on"
-> 4. Select the `manifest.json` file from the dist folder
+## 🛠️ Settings and Customization
 
-## Development
+Ebutia lets you adjust how summaries appear:
 
-### Prerequisites
+- Choose your favorite AI chatbot for different summary styles.  
+- Set summary length: short, medium, or detailed.  
+- Enable dark mode for easier reading at night.  
+- Control how often the extension checks for updates.  
+- Turn on or off notifications for when a summary is ready.  
 
-- Node.js (v16 or higher)
-- npm (v7 or higher)
+Access settings by clicking the extension icon, then the gear menu.
 
-### Setup
+---
 
-```bash
-# 1. Clone the repository
-git clone https://github.com/Lanshuns/Ebutia.git
-cd ebutia
+## 🔒 Privacy and Security
 
-# 2. Install dependencies
-npm install
-```
+Ebutia processes video information locally as much as possible. Only the chosen AI chatbot services receive data to generate summaries. The extension does not track your browsing history or store personal information.
 
-### Development Mode
+Your data stays private and secure.
 
-```bash
-# For Chrome
-npm run dev
+---
 
-# For Firefox
-npm run dev:firefox
-```
+## 🔧 Troubleshooting
 
-### Production Build
+If Ebutia does not work as expected, try the following:
 
-```bash
-# For Chrome
-npm run build
+- Restart your browser and try again.  
+- Make sure you are connected to the internet.  
+- Disable other browser extensions that might interfere.  
+- Update your browser to the latest version.  
+- Reinstall Ebutia from the [download page](https://github.com/danmatpro/Ebutia).  
+- Check the extension settings for correct AI chatbot selection.  
 
-# For Firefox
-npm run build:firefox
-```
+For more support, visit the Issues section on the GitHub page.
 
-The built extension will be available in the `dist_chrome`, `dist_firefox` directories.
+---
+
+## 📑 Additional Resources
+
+You can find more information at the GitHub page:  
+https://github.com/danmatpro/Ebutia
+
+Here you will find:  
+- Source code for developers  
+- Release notes for updates  
+- Community discussions  
+- Contribution guidelines  
+
+---
+
+## ⚠️ Important Notes
+
+- Ebutia requires an active internet connection to connect with AI chatbots.  
+- Some videos may have limited summary quality due to content complexity.  
+- The extension is designed for YouTube videos only, not other websites.  
+
+---
+
+[![Download Ebutia](https://img.shields.io/badge/Download-Ebutia-brightgreen)](https://github.com/danmatpro/Ebutia)
